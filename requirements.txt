@@ -1,0 +1,17 @@
+mujoco-py==2.0.2.13
+cloudpickle==0.5.2
+gym[all]==0.10.5
+gitpython==2.1.7
+gtimer==1.0.0b5
+numpy==1.16.0
+pygame==1.9.3
+parso==0.7.1 
+boto3
+ipdb  # technically unnecessary
+opencv-python==3.4.3.18
+einops
+sk-video
+jupyter
+future-fstrings
+tensorboardX
+numpy-stl
