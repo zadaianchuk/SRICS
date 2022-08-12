@@ -77,7 +77,6 @@ python viskit/frontend.py ./data/exp_name/
 Please use the following bibtex entry to cite us:
 
 ```
-
 @InProceedings{pmlr-v164-zadaianchuk22a,
   title = 	 {Self-supervised Reinforcement Learning with Independently Controllable Subgoals},
   author =       {Zadaianchuk, Andrii and Martius, Georg and Yang, Fanny},
