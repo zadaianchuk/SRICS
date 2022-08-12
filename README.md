@@ -77,12 +77,13 @@ python viskit/frontend.py ./data/exp_name/
 Please use the following bibtex entry to cite us:
 
 ```
-@inproceedings{Zadaianchuk2021IndependentlyControllable,
-  title={Self-supervised Reinforcement Learning with Independently Controllable Subgoals},
-  author={Zadaianchuk, Andrii and Martius, Georg and Yang, Fanny},
-  booktitle={Proceedings of the 5th Conference on Robot Learning (CoRL)},
-  year={2021},
-  url={https://proceedings.mlr.press/v164/zadaianchuk22a.html}
+@inproceedings{
+zadaianchuk2021selfsupervised,
+title={Self-supervised Reinforcement Learning with Independently Controllable Subgoals},
+author={Andrii Zadaianchuk and Georg Martius and Fanny Yang},
+booktitle={5th Annual Conference on Robot Learning },
+year={2021},
+url={https://openreview.net/forum?id=TEQWRlncJVm}
 }
 ```
 
